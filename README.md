@@ -15,6 +15,12 @@ Snapp is the first Iranian transportation network company based in Tehran, Iran.
 - minSdkVersion 14
 - targetSdkVersion 29
 
+## Our Research about Snapp Map
+
+- https://snappmaps.ir/
+- https://tile.snappmaps.ir/
+- https://tile.snappmaps.ir/data/v3/8/162/99.pbf
+
 ---------
 
 # Max Base
